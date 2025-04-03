@@ -1,5 +1,4 @@
 package TreinoBasico;
-
 import java.util.Scanner;
 
 public class MaiorNumArray {

@@ -1,7 +1,4 @@
 package TreinoBasico;
-/*
-leia do teclado e imprima o que foi digitado e se for digitado "fim" encerre o programa se não for digitado "fim" leia do teclado novamente
-*/
 import java.util.Scanner;
 
 public class CompararStr {

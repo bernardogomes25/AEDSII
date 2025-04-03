@@ -1,7 +1,4 @@
 package TreinoBasico;
-/* 
-leia do teclado 5 numeros utilizando a estrutura de repetição for e imprima o maior deles
-*/
 import java.util.Scanner;
 
 public class MaiorNum {

@@ -1,7 +1,4 @@
 package TreinoBasico;
-/*
-leia dois números do teclado e imprima o maior deles
- */
 import java.util.Scanner;
 
 public class CompararNum {

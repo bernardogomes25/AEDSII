@@ -1,7 +1,4 @@
 package TreinoBasico;
-/*
-leia 5 valores do teclado calcule a média aritimetica e imprima o resultado
-*/
 import java.util.Scanner;
 
 public class MediaAritmetica {
