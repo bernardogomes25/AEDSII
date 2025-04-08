@@ -1,7 +1,7 @@
 package TreinoBasico;
 import java.util.Random;
 
-public class OrdenarArray {
+public class BubbleSort {
     public static void main(String[] args) {
         Random gerador = new Random();
         int i, j;
